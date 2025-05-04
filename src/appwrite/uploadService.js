@@ -1,4 +1,4 @@
-import config from "../config/config";
+import config from "../config/config.js";
 import { Client, Storage, ID } from "appwrite";
 
 export class UploadService {
